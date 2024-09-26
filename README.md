@@ -64,6 +64,8 @@ accuracy
 ```
 
 ## Output:
+Sample data and Accuracy:
+
 ![image](https://github.com/user-attachments/assets/29d927e5-5558-4dba-9100-7103ea98a22c)
 
 ## Result:
